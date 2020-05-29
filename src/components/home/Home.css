@@ -1,0 +1,38 @@
+.home{
+    background-image: url("https://i.imgur.com/tJfLFwC.jpg");
+    position: relative;
+    min-width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    
+
+}
+.intro{
+
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 40%;
+}
+h1,h3,h6{
+    background-color: rgba(32, 229, 243, 0.3);
+    display: inline;
+    border-radius: 10px;
+    padding: 5px 50px;
+}
+h3{
+    font-size: 5px;
+}
+.button{
+    padding: 7px 25px;
+    border: none;
+    background-color:crimson;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 800;
+}

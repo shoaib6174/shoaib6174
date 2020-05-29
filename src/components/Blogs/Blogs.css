@@ -1,0 +1,28 @@
+.blogs-container{
+    min-height: 100vh;
+    padding-top: 50px;
+    
+}
+#book_img{
+    width: 30%;
+    margin-left: 30%; 
+}
+.book-card{
+  margin: auto;
+}
+.button{
+    text-align: center;
+}
+.blog-links{
+    display: flex;
+    
+}
+.blog-card{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.button-container{
+    margin-left: 47%;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
